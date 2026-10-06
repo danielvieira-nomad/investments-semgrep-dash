@@ -1,0 +1,2 @@
+Id,Rule Name,Product,Severity,Status,Confidence,Category,Is Pro Rule,Repository Name,Repository Url,Line Of Code Url,Semgrep Platform Link,Created At,Last Opened At,Branch,Rule Description
+100,test.rule,Code,Low,Open,High,security,False,org/repo-a,https://example.com/a,https://example.com/a/loc,https://semgrep.dev/100,2026-10-01,2026-10-01,refs/heads/main,desc one
