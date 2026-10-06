@@ -6,7 +6,7 @@ Static Semgrep findings dashboard for the investments team. Raw CSV exports stay
 
 1. Place Semgrep combined exports under `findings/YYYY.MM.DD/*.csv` (folder name = snapshot date).
 2. Run `npm run report:link` (optional `--open`, `--base-url <pages-url>`).
-3. Share the printed URL with teammates who have **read access** to this private GitHub repo.
+3. Share the printed URL with teammates (report data is only in the link hash, not in git).
 
 Never commit `findings/` or paste production CSVs into the repository.
 
